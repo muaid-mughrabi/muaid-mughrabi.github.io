@@ -7,15 +7,15 @@ During my study, I focused on developing my skills in three main directions: **D
 
 ## Skills
 In general:
-* Data Science and Artifical Intellegence: My main interest and the main course of my studies. This includes **Data Analysis**, **Visualisation**, usage of **Machine and Deep Learning** algorithms to solve problems related to *Natural language processing*, *graph data analysis*, *multimedia processing*, and *deploying smart agents using reinforcement learning*.
+* Data Science and Artifical Intellegence: my main interest and the main course of my studies. This includes **Data Analysis**, **Visualisation**, usage of **Machine and Deep Learning** algorithms to solve problems related to *Natural language processing*, *graph data analysis*, *multimedia processing*, and *deploying smart agents using reinforcement learning*.
 
 <progress style="width:96%; left: 0px;" value="95" max="100"> </progress>
 
-* Software Engineering Skills: Skills related to creating high quality but still easy to maintain softwares.
+* Software Engineering Skills: skills related to creating high quality but still easy to maintain softwares.
 
 <progress style="width:96%; left: 0px;" value="80" max="100"> </progress>
 
-* Softskills: Teamwork, Leadership, Knowledge Transfer. I worked as a academic tutor for more than 10 different academic courses addressed to different disciplinary backgrounds.
+* Softskills: teamwork, leadership skills, knowledge transfer. I worked as a academic tutor for more than 10 different academic courses addressed to different disciplinary backgrounds.
 
 <progress style="width:96%; left: 0px;" value="95" max="100"> </progress>
 
