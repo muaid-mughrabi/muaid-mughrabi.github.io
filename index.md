@@ -32,11 +32,12 @@ Scale (1-5) explaination
 
     Challenges among three dimensions:
 
-    1. *Software Development*: creating a high-quality, user-friendly IDE capable of communicating with multiple EMS-channels within a very limited timeframe. 
-    2. *Human Computer Interaction*: creating and conducting 2 user studies. In Addition, pattern creation requires prior knowledge of anatomy.
+    1. *Software Development*: creating a high-quality EMS framework capable of communicating with multiple EMS channels simultaneously, which was then used to create a user-friendly IDE and a study execution tool, all within a very limited timeframe.  
+    2. *Human Computer Interaction*: creating and conducting 2 user studies. In Addition, pattern creation requires prior knowledge of human anatomy.
     3. *Data Analysis*: drawing conclusions from the collected data and presenting them in a visually appealing way. 
 
-    used technlogies
+    Used technlogies:  
+    Java, JavaFX, C, Gson, [let your body move](https://bitbucket.org/MaxPfeiffer/letyourbodymove/wiki/Home), Python, Numpy, Pandas, Matplotlib, Seaborn.
 
     More details can be found [here](https://hci.uni-hannover.de/theses).
 
