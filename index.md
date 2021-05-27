@@ -1,3 +1,15 @@
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B568JZ7SKQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B568JZ7SKQ');
+</script>
+</head>
+
 # Muaid Mughrabi
 
 ## Intro
@@ -68,4 +80,8 @@ In general:
 (Aka: [Niedersachsenstipendium](https://www.uni-hannover.de/en/studium/finanzierung-und-foerderung/niedersachsenstipendium/)) (2018, 2020)
 
 ## Contact 
+Email: Muaid.Mughrabi@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/muaid-mughrabi/)  
+[GitLab](https://gitlab.com/mydo.mughrabi)
+
 
