@@ -23,8 +23,6 @@ In general:
 
 <summary>In details:</summary> 
 
-<div id="demo" class="collapse">
-
 | Scale explaination       |               |
 | ------------- |-------------|
 | Basics      | <span class="rating filled">  ■  </span> <span class="rating">   ■ ■ ■ ■ </span> |
