@@ -98,7 +98,9 @@ In details:
 
 <style>
 .rating {
-    -webkit-text-stroke: 1.5px black; 
+    -webkit-text-stroke: 1.5px black;
+    font-size: 30px;
+    font-family: 'Segoe UI';
     color: #80000000;
 }
 .filled{
