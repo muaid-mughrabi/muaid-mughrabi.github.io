@@ -31,24 +31,24 @@ In details:
 
 | Data processing        |               |
 | ------------- |-------------|
-| Numpy      | <span class="rating filled">  ■ ■ ■ ■  ◧  </span> <span class="rating">   ■ </span> |
+| Numpy      | <span class="rating filled">  ■ ■ ■ ■  ◧  </span> <span class="rating">   </span> |
 | Pandas      | <span class="rating filled">  ■ ■ ■ ■   </span> <span class="rating">   ■ </span> |
-| Seaborn, Matplotlib       | <span class="rating filled">  ■ ■ ■ ■  ◧  </span> <span class="rating">   ■ </span> |
+| Seaborn, Matplotlib       | <span class="rating filled">  ■ ■ ■ ■  ◧  </span> <span class="rating">   </span> |
 | SciPy      | <span class="rating filled">  ■ ■ ■   </span> <span class="rating">   ■ ■ </span> |
 
 | Machine learning        |               |
 | ------------- |-------------|
 | Scikit-learn      | <span class="rating filled">  ■ ■ ■ ■   </span> <span class="rating">   ■ </span> |
-| TensorFlow      | <span class="rating filled">  ■ ■ ■  ◧  </span> <span class="rating">   ■ ■ </span> |
-| Keras      | <span class="rating filled">  ■ ■ ■ ■  ◧  </span> <span class="rating">   ■ </span> |
-| Pytorch (lightning)      | <span class="rating filled">  ■ ■  ◧  </span> <span class="rating">   ■ ■ ■ </span> |
+| TensorFlow      | <span class="rating filled">  ■ ■ ■  ◧  </span> <span class="rating">   ■ </span> |
+| Keras      | <span class="rating filled">  ■ ■ ■ ■  ◧  </span> <span class="rating">   </span> |
+| Pytorch (lightning)      | <span class="rating filled">  ■ ■  ◧  </span> <span class="rating">   ■ ■ </span> |
 
 | Programming        |               |
 | ------------- |-------------|
-| Python      | <span class="rating filled">  ■ ■ ■ ■  ◧  </span> <span class="rating">   ■ </span> |
-| Java      | <span class="rating filled">  ■ ■ ■ ■  ◧  </span> <span class="rating">   ■ </span> |
+| Python      | <span class="rating filled">  ■ ■ ■ ■  ◧  </span> <span class="rating">   </span> |
+| Java      | <span class="rating filled">  ■ ■ ■ ■  ◧  </span> <span class="rating">   </span> |
 | C      | <span class="rating filled">  ■ ■   </span> <span class="rating">   ■ ■ ■ </span> |
-| C++      | <span class="rating filled">  ■  ◧  </span> <span class="rating">   ■ ■ ■ ■ </span> |
+| C++      | <span class="rating filled">  ■  ◧  </span> <span class="rating">   ■ ■ ■ </span> |
 | Haskell      | <span class="rating filled">  ■ ■   </span> <span class="rating">   ■ ■ ■ </span> |
 
 | Software development        |               |
@@ -62,6 +62,8 @@ In details:
 | Scientific writing        |               |
 | ------------- |-------------|
 | LaTeX      | <span class="rating filled">  ■ ■ ■   </span> <span class="rating">   ■ ■ </span> |
+
+
 
 
 
