@@ -1,10 +1,3 @@
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-</head>
-
 # Muaid Mughrabi
 
 ## Intro
@@ -27,8 +20,6 @@ In general:
 <progress style="width:96%; left: 0px;" value="95" max="100"> </progress>
 
 <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">In details</button> 
-
-<div id="demo" class="collapse">
 
 | Scale explaination       |               |
 | ------------- |-------------|
@@ -71,8 +62,6 @@ In general:
 | Scientific writing        |               |
 | ------------- |-------------|
 | LaTeX      | <span class="rating filled">  ■ ■ ■   </span> <span class="rating">   ■ ■ </span> |
-
-</div>
 
 
 
