@@ -63,6 +63,9 @@ In general:
 
 
 ## Scholarships 
+* [Deutschlandstipendium](https://www.deutschlandstipendium.de/de/english-1700.html) (2019/2020) 
+* 2x Lower Saxony Scholarship
+(Aka: [Niedersachsenstipendium](https://www.uni-hannover.de/en/studium/finanzierung-und-foerderung/niedersachsenstipendium/)) (2018, 2020)
 
 ## Contact 
 
