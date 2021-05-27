@@ -56,9 +56,11 @@ In general:
     <!-- toDo: challenges with bigData and logistics, CI\CD -->
 
 * Other Academic Projects:
-    * Deep Learning Project
+    * [Deep Learning Project: ](https://gitlab.com/mydo.mughrabi/graphsage) This Project replicates, extends and evaluates the well known [GraphSAGE](https://arxiv.org/pdf/1706.02216.pdf) algorithm. 
 
-    * Datamining Project
+    * [Datamining Project: ](https://gitlab.com/omar.araboghli/cost-sensitive-boosting) This work aims to reproduce and explain the results of the cost-sensitive boosting approaches presented [here](https://sci2s.ugr.es/keel/pdf/specific/articulo/sun2007a.pdf).
+
+
 
 ## Scholarships 
 
