@@ -21,8 +21,48 @@ In general:
 
 In details:  
 
-Scale (1-5) explaination
- * Data Science and Artifical Intellegence:
+| Scale explaination       |               |
+| ------------- |-------------|
+| Basics      | <span class="rating filled">  ■  </span> <span class="rating">   ■ ■ ■ ■ </span> |
+| Simple project      | <span class="rating filled">  ■ ■   </span> <span class="rating">   ■ ■ ■ </span> |
+| Extensive project experience      | <span class="rating filled">  ■ ■ ■   </span> <span class="rating">   ■ ■  </span> |
+| In-depth knowledge      | <span class="rating filled">  ■ ■ ■ ■  </span> <span class="rating">  ■ </span> |
+| Expert      | <span class="rating filled">  ■ ■ ■ ■ ■   </span> <span class="rating"> </span> |
+
+| Data processing        |               |
+| ------------- |-------------|
+| Numpy      | <span class="rating filled">  ■ ■ ■ ■  ◧  </span> <span class="rating">   ■ </span> |
+| Pandas      | <span class="rating filled">  ■ ■ ■ ■   </span> <span class="rating">   ■ </span> |
+| Seaborn, Matplotlib       | <span class="rating filled">  ■ ■ ■ ■  ◧  </span> <span class="rating">   ■ </span> |
+| SciPy      | <span class="rating filled">  ■ ■ ■   </span> <span class="rating">   ■ ■ </span> |
+
+| Machine learning        |               |
+| ------------- |-------------|
+| Scikit-learn      | <span class="rating filled">  ■ ■ ■ ■   </span> <span class="rating">   ■ </span> |
+| TensorFlow      | <span class="rating filled">  ■ ■ ■  ◧  </span> <span class="rating">   ■ ■ </span> |
+| Keras      | <span class="rating filled">  ■ ■ ■ ■  ◧  </span> <span class="rating">   ■ </span> |
+| Pytorch (lightning)      | <span class="rating filled">  ■ ■  ◧  </span> <span class="rating">   ■ ■ ■ </span> |
+
+| Programming        |               |
+| ------------- |-------------|
+| Python      | <span class="rating filled">  ■ ■ ■ ■  ◧  </span> <span class="rating">   ■ </span> |
+| Java      | <span class="rating filled">  ■ ■ ■ ■  ◧  </span> <span class="rating">   ■ </span> |
+| C      | <span class="rating filled">  ■ ■   </span> <span class="rating">   ■ ■ ■ </span> |
+| C++      | <span class="rating filled">  ■  ◧  </span> <span class="rating">   ■ ■ ■ ■ </span> |
+| Haskell      | <span class="rating filled">  ■ ■   </span> <span class="rating">   ■ ■ ■ </span> |
+
+| Software development        |               |
+| ------------- |-------------|
+| Spring Boot      | <span class="rating filled">  ■   </span> <span class="rating">   ■ ■ ■ ■ </span> |
+| Git      | <span class="rating filled">  ■ ■ ■   </span> <span class="rating">   ■ ■ </span> |
+| SVN      | <span class="rating filled">  ■ ■   </span> <span class="rating">   ■ ■ ■ </span> |
+| Gitlab CI\CD      | <span class="rating filled">  ■ ■   </span> <span class="rating">   ■ ■ ■ </span> |
+| Atlassian Jira      | <span class="rating filled">  ■ ■   </span> <span class="rating">   ■ ■ ■ </span> |
+
+| Scientific writing        |               |
+| ------------- |-------------|
+| LaTeX      | <span class="rating filled">  ■ ■ ■   </span> <span class="rating">   ■ ■ </span> |
+
 
 
 
@@ -43,7 +83,9 @@ Scale (1-5) explaination
 
 * [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/):
 
-    International competition introduced by Stanford ML Group aiming at automated interpretation of chest radiographs. With my group, we reached and held the first place (also internationally) for the single model competition for about 1 month (06.2019), currently ranked 94th for single and ensamble models (model name: JustAnotherDensenet). 
+    International competition introduced by Stanford ML Group aiming at automated interpretation of chest radiographs. With my group, we reached and held the **first place** (also **internationally**) for the single model competition for about 1 month (06.2019), currently ranked 94th for single and ensamble models (model name: JustAnotherDensenet). 
+    
+    <!-- toDo: challenges with bigData and logistics, CI\CD -->
 
 * Other Academic Projects:
     * Deep Learning Project
@@ -53,3 +95,13 @@ Scale (1-5) explaination
 ## Scholarships 
 
 ## Contact 
+
+<style>
+.rating {
+    -webkit-text-stroke: 1.5px black; 
+    color: #80000000;
+}
+.filled{
+    color: #0075ff;
+}
+</style>
