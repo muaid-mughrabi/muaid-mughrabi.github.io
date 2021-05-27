@@ -19,7 +19,8 @@ In general:
 
 <progress style="width:96%; left: 0px;" value="95" max="100"> </progress>
 
-<button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">In details</button> 
+<button type="button" class="collapsible">Open In details</button>
+<div class="content">
 
 | Scale explaination       |               |
 | ------------- |-------------|
@@ -63,6 +64,7 @@ In general:
 | ------------- |-------------|
 | LaTeX      | <span class="rating filled">  ■ ■ ■   </span> <span class="rating">   ■ ■ </span> |
 
+</div>
 
 
 
@@ -106,4 +108,31 @@ In general:
 .filled{
     color: #0075ff;
 }
+
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+
 </style>
