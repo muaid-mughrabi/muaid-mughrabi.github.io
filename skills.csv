@@ -1,0 +1,20 @@
+skill,score,group
+Numpy,4.5,Data processing
+Pandas,4,Data processing
+"Seaborn, Matplotlib ",4.5,Data processing
+SciPy,3,Data processing
+Scikit-learn,4,Machine learning
+TensorFlow,3.5,Machine learning
+Keras,4.5,Machine learning
+Pytorch (lightning),2.5,Machine learning
+Python,4.5,Programming
+Java,4.5,Programming
+C,2,Programming
+C++,1.5,Programming
+Haskell,2,Programming
+Spring Boot,1,Software development
+Git,3,Software development
+SVN,2,Software development
+Gitlab CI\CD,2,Software development
+Atlassian Jira,2,Software development
+LaTeX,3,Scientific writing
